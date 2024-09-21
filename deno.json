@@ -1,0 +1,5 @@
+{
+    "tasks": {
+        "major": "deno run --env -A major.ts"
+    }
+}
